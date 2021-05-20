@@ -1,6 +1,6 @@
-# App Link 
+# App Link (used Heroku app)
 
- https://bhobhiasumit.github.io/ReactCounter/
+https://counter-in-react.herokuapp.com/
 
 
 # Counter In React.js

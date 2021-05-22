@@ -16,6 +16,23 @@ It is an application that accepts input only as a number N and on entering a val
 
 
 
+# Screenshots :
+
+## UI
+
+![Screenshot (116)](https://user-images.githubusercontent.com/62837689/119227857-b59fc000-bb2d-11eb-9323-4b9c050c7608.png)
+
+## Input
+
+![Screenshot (117)](https://user-images.githubusercontent.com/62837689/119227858-b89ab080-bb2d-11eb-95c6-efc549c78c64.png)
+
+## Output
+
+![Screenshot (118)](https://user-images.githubusercontent.com/62837689/119227863-bd5f6480-bb2d-11eb-828a-e564deebbf2d.png)
+
+## One more case
+
+![Screenshot (119)](https://user-images.githubusercontent.com/62837689/119227865-bf292800-bb2d-11eb-8df3-24a1892e122a.png)
 
 
 
